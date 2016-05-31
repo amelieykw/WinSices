@@ -1,0 +1,23 @@
+﻿<Properties StartupItem="WinSices02_ConsolePROJ/WinSices02_ConsolePROJ.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WinSices02_ConsolePROJ/Program.cs">
+    <Files>
+      <File FileName="WinSices02_ConsolePROJ/Program.cs" Line="22" Column="3" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WinSices02_ConsolePROJ" expanded="True">
+            <Node name="WinSices02_ConsolePROJ" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
